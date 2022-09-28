@@ -1,0 +1,30 @@
+package switchDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		char grade='A';
+		
+		switch (grade) {
+		case 'A': {
+			System.out.println("A notu ile gectiniz. Mukemmel");
+		}
+		case 'B':{
+			System.out.println("B notu ile gectiniz. Guzel");
+		}
+		case 'C':{
+			System.out.println("C notu ile gectiniz. İyi.");
+		}
+		case 'D':{
+			System.out.println("D notu ile gectiniz. Fena Degil");
+		}
+		case 'E':{
+			System.out.println("E notu ile KALDINIZ.");
+		}
+		default:
+		System.out.println("Gecersiz kod girdiniz!!!");
+		}
+	}
+
+}

@@ -1,0 +1,13 @@
+package arraysDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		String ogr1="Engin";
+		String ogr2="Dilara";
+		String ogr3="Salih";
+		System.out.println(ogr1);
+	}
+
+}

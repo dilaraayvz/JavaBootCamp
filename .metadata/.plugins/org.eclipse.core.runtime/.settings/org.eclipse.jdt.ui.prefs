@@ -1,0 +1,12 @@
+content_assist_autoactivation_triggers_java=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ._
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="oop1.Customer"><rhs name\="oop1.CorporateCustomer"/></lhs><lhs name\="oop1.CorporateCustomer"><rhs name\="oop1.CorporateCustomer"/></lhs><lhs name\="reCapDemo_Classes.DortIslem"><rhs name\="reCapDemo_Classes.DortIslem"/></lhs><lhs name\="classesWithAttributes.Product"><rhs name\="classesWithAttributes.Product"/></lhs><lhs name\="classesWithAttributes.ProductManager"><rhs name\="classesWithAttributes.ProductManager"/></lhs><lhs name\="merhodOverloading.DortIslem"><rhs name\="merhodOverloading.DortIslem"/></lhs><lhs name\="inheritance.Person"><rhs name\="inheritance.Customer"/><rhs name\="inheritance.Employee"/></lhs><lhs name\="inheritance.Customer"><rhs name\="inheritance.Customer"/></lhs><lhs name\="inheritance.Employee"><rhs name\="inheritance.Employee"/></lhs><lhs name\="inheritance.PersonManager"><rhs name\="inheritance.CustomerManager"/><rhs name\="inheritance.EmployeeManager"/></lhs><lhs name\="inheritance.CustomerManager"><rhs name\="inheritance.CustomerManager"/></lhs><lhs name\="inheritance.EmployeeManager"><rhs name\="inheritance.EmployeeManager"/></lhs><lhs name\="inheritanceDemo.BaseKrediManager"><rhs name\="inheritanceDemo.OgretmenKrediManager"/><rhs name\="inheritanceDemo.AskerKrediManager"/></lhs><lhs name\="inheritanceDemo.OgretmenKrediManager"><rhs name\="inheritanceDemo.OgretmenKrediManager"/></lhs><lhs name\="inheritanceDemo.KrediUI"><rhs name\="inheritanceDemo.KrediUI"/></lhs></history>
+content_assist_number_of_computers=17
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=22
+sourceHoverBackgroundColor=47,47,47
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

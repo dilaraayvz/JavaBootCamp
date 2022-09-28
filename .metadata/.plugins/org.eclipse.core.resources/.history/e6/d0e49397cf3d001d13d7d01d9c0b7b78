@@ -1,0 +1,15 @@
+package oop1;
+//classlar PascalCase isimlendirilir (Product)
+
+public class Product {
+	//private sadece o class içinde kullanılabilir
+	//classın field ları; (camelCase yazılır)
+	private String name;
+	private double unitPrice;
+	private double discount;
+	private String imageUrl;
+	private int unitsInStock;
+	
+	
+	
+}

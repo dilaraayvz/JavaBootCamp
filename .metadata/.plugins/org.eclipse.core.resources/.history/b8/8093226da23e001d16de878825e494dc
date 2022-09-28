@@ -1,0 +1,22 @@
+package classes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//reference type 
+		CustomerManager customerManager=new CustomerManager();
+		customerManager.Add();
+		customerManager.Update();
+		customerManager.Remove();
+		
+		//value type
+		int sayi1=10;
+		int sayi2=25;
+		sayi1=sayi2;
+		sayi1=5;
+		System.out.println(say2);
+
+	}
+	
+
+}
